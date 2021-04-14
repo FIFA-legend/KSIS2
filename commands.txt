@@ -1,0 +1,12 @@
+User --> Server commands
+    1. login <username> <password>
+    2. logout
+    3. msg [text]
+
+Server --> User commands
+    1. accept
+    2. decline
+    3. online <username>
+    4. logout <username>
+    5. quit
+    6. msg <sender> [text]

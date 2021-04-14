@@ -1,0 +1,7 @@
+by\bsuir\client\Client.class
+by\bsuir\client\MessageListener.class
+module-info.class
+by\bsuir\client\UserOfflineListener.class
+by\bsuir\App.class
+by\bsuir\client\UserOnlineListener.class
+by\bsuir\MainWindowController.class
